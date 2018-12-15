@@ -42,7 +42,7 @@ void slist_delete(pslist list);
 
 /*
  * Allocate the element
- * put at the beginning
+ * put at the end
  * Params: list - pointer to the list
  *         value - value to put in the node
  * Returns 0
